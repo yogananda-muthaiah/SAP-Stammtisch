@@ -17,4 +17,9 @@
 | Applying a Human-Centered Approach to Identify and Define Business AI Use Cases                            | [https://learning.sap.com/learning-journeys/applying-a-human-centered-approach-to-identify-and-define-business-ai-use-cases](https://learning.sap.com/learning-journeys/applying-a-human-centered-approach-to-identify-and-define-business-ai-use-cases) |
 | Introducing SAP Business AI for SAP Customer Experience                                                    | [https://learning.sap.com/courses/introducing-sap-business-ai-for-sap-customer-experience](https://learning.sap.com/courses/introducing-sap-business-ai-for-sap-customer-experience) |
 | Revolutionizing Business AI - Practical Implementations with HANA Vector Engine and Joule                   | [https://learning.sap.com/courses/dsag-tx-25](https://learning.sap.com/courses/dsag-tx-25)                                                      |
+
+### Certification
+
+| Certification                                                                                                      | Link                                                                                                     |
+|------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | SAP Certified Associate - Positioning SAP Business AI Solutions as part of SAP Business Suite               | [https://learning.sap.com/certifications/sap-certified-associate-positioning-sap-business-ai-solutions-as-part-of-the-sap-business-suite](https://learning.sap.com/certifications/sap-certified-associate-positioning-sap-business-ai-solutions-as-part-of-the-sap-business-suite) |
