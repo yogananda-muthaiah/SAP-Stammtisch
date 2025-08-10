@@ -23,3 +23,13 @@
 | Certification                                                                                                      | Link                                                                                                     |
 |------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | SAP Certified Associate - Positioning SAP Business AI Solutions as part of SAP Business Suite               | [https://learning.sap.com/certifications/sap-certified-associate-positioning-sap-business-ai-solutions-as-part-of-the-sap-business-suite](https://learning.sap.com/certifications/sap-certified-associate-positioning-sap-business-ai-solutions-as-part-of-the-sap-business-suite) |
+
+
+# SAP Business AI – Live Sessions
+
+| Title                                                                    | Link                                                                                                                          |
+|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Introduction to SAP Business AI                                          | [https://learning.sap.com/live-sessions/introduction-to-sap-business-ai](https://learning.sap.com/live-sessions/introduction-to-sap-business-ai) |
+| SAP's Business AI strategy for Utilities                                 | [https://learning.sap.com/live-sessions/sap-s-business-ai-strategy-for-utilities](https://learning.sap.com/live-sessions/sap-s-business-ai-strategy-for-utilities) |
+| All Things Business AI: Latest Insights, Updates & Live Demos  - 19th Aug    | [https://learning.sap.com/live-sessions/q3-update-what-s-new-in-sap-learning-for-sap-business-ai](https://learning.sap.com/live-sessions/q3-update-what-s-new-in-sap-learning-for-sap-business-ai) |
+| Introduction to SAP Business AI and Its Strategic Impact       - Oct 3rd       | [https://learning.sap.com/live-sessions/introduction-to-sap-business-ai-and-its-strategic-impact](https://learning.sap.com/live-sessions/introduction-to-sap-business-ai-and-its-strategic-impact) |
