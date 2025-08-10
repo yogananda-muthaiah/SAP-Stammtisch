@@ -1,4 +1,7 @@
 
+## Why SAP Business AI?
+* https://www.sap.com/products/artificial-intelligence.html
+
 # SAP Business AI – Learning Resources
 
 | Title                                                                                                      | Link                                                                                                     |
