@@ -1,6 +1,13 @@
 
+
 ## Why SAP Business AI?
 * https://www.sap.com/products/artificial-intelligence.html
+
+
+### SAP Business AI (Customer Success Story)
+* [SAP Business AI Customer Success Collection](https://www.sap.com/documents/2025/05/105aa47f-067f-0010-bca6-c68f7e60039b.html)
+>  Discover how businesses worldwide harness SAP Business AI to streamline operations, enhance decision-making, and unlock new opportunities.
+
 
 # SAP Business AI – Learning Resources
 
