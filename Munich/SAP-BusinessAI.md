@@ -3,6 +3,8 @@
 ## Why SAP Business AI?
 * https://www.sap.com/products/artificial-intelligence.html
 
+### Business AI - Catalog 
+* https://discovery-center.cloud.sap/ai-catalog/
 
 ### SAP Business AI (Customer Success Story)
 * [SAP Business AI Customer Success Collection](https://www.sap.com/documents/2025/05/105aa47f-067f-0010-bca6-c68f7e60039b.html)
